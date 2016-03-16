@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Vicky Chow, pianist]]></title>
         <description><![CDATA[Vicky Chow, pianist]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.vickychow.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 21:56:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 16 Mar 2016 22:04:51 GMT</lastBuildDate>
+        <atom:link href="http://www.vickychow.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/baa9bae2-274a-4a7b-a7fa-6ccb267e625b.jpg">]]></description>
+            <link>http://www.vickychow.com/my-recording-of-steve-reichs-piano-counterpoint-is-availabl/index.html</link>
+            <guid isPermaLink="false">d442ed67-1513-4ce9-894f-ec69b1f56cc3</guid>
+            <pubDate>Wed, 16 Mar 2016 22:04:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/80c8d5be-eabe-4510-8167-616338c757a8.jpg">]]></description>
-            <link>undefinedtristan-perich-surface-image-solo-piano-and-40-channel-1-/index.html</link>
+            <link>http://www.vickychow.com/tristan-perich-surface-image-solo-piano-and-40-channel-1-/index.html</link>
             <guid isPermaLink="false">08de952c-8dc0-46f7-bb8a-4aef546b6be9</guid>
             <pubDate>Wed, 16 Mar 2016 21:56:51 GMT</pubDate>
         </item>
