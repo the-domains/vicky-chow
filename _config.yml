@@ -1,14 +1,29 @@
+name: Vicky Chow
+favicon: null
 layout_spectrum: 1
+typography_spectrum: 0.7903226
+title: www.vickychow.com
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.2401434
-  lightness: 1
-  brandStrength: 0.6039426
   brandColors:
     - '#0C0C0C'
     - '#CFBDB4'
     - '#392717'
     - '#788688'
     - '#B44B01'
+  brandStrength: 0.6039426
+  lightness: 1
+  saturation: 0.2401434
   rhythmicContrast: 0.6469534
-typography_spectrum: 0.7903226
-name: Vicky Chow
+purpose: []
