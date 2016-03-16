@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.2401434
+  lightness: 1
+  brandStrength: 0.6039426
+  brandColors:
+    - '#0C0C0C'
+    - '#CFBDB4'
+    - '#392717'
+    - '#788688'
+    - '#B44B01'
+  rhythmicContrast: 0.6469534
+typography_spectrum: 0.7903226
+name: Vicky Chow
