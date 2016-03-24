@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "my recording of Steve Reich's Piano Counterpoint is available\_Nonesuch Records alongside Jonny Greenwood's new interpretation of Electric Counterpoint and Alarm Will Sound's premiere recording of\_Radio ReWrite"
-datePublished: '2016-03-24T04:13:09.286Z'
-dateModified: '2016-03-24T04:10:03.091Z'
+datePublished: '2016-03-24T04:14:10.092Z'
+dateModified: '2016-03-24T04:13:16.630Z'
 title: Albums
 author: []
 sourcePath: _posts/2016-03-16-my-recording-of-steve-reichs-piano-counterpoint-is-availabl.md
