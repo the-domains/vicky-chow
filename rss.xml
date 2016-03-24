@@ -4,21 +4,21 @@
         <description><![CDATA[Vicky Chow, pianist]]></description>
         <link>https://thegrid.ai/sitename/vcpianos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 04:27:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2016 04:27:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sitename/vcpianos/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>AORTA </p>]]></description>
+            <link>https://thegrid.ai/sitename/vcpianos/e8e76221-f09c-477c-85cd-1d882f5d0dca/index.html</link>
+            <guid isPermaLink="false">e8e76221-f09c-477c-85cd-1d882f5d0dca</guid>
+            <pubDate>Thu, 24 Mar 2016 04:27:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Albums]]></title>
             <description><![CDATA[<article><h1>Albums</h1><p>Tristan Perich: Surface Image for solo piano and 40-­channel 1-­bit electronics available at New Amsterdam Records.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eee9b92649a15c65801d9dd1fd54d85549eab5a2.jpg"></article>]]></description>
             <link>https://thegrid.ai/sitename/vcpianos/tristan-perich-surface-image-solo-piano-and-40-channel-1-/index.html</link>
             <guid isPermaLink="false">08de952c-8dc0-46f7-bb8a-4aef546b6be9</guid>
             <pubDate>Thu, 24 Mar 2016 04:26:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>AORTA </p>]]></description>
-            <link>https://thegrid.ai/sitename/vcpianos/e8e76221-f09c-477c-85cd-1d882f5d0dca/index.html</link>
-            <guid isPermaLink="false">e8e76221-f09c-477c-85cd-1d882f5d0dca</guid>
-            <pubDate>Thu, 24 Mar 2016 04:20:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
