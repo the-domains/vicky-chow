@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: "Tristan Perich: Surface Image for\_solo piano and 40-­channel 1-­bit electronics\_available at New Amsterdam Records."
-datePublished: '2016-03-24T04:19:07.399Z'
-dateModified: '2016-03-24T04:19:03.262Z'
+datePublished: '2016-03-24T04:22:57.161Z'
+dateModified: '2016-03-24T04:22:51.705Z'
 title: Albums
 author: []
 sourcePath: _posts/2016-03-16-tristan-perich-surface-image-solo-piano-and-40-channel-1-.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: tristan-perich-surface-image-solo-piano-and-40-channel-1-/index.html
-_type: WebPage
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/80c8d5be-eabe-4510-8167-616338c757a8.jpg)
