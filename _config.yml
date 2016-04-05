@@ -13,16 +13,16 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.8125
+  saturation: 0
   brandStrength: 1
-  rhythmicContrast: 0.75
+  lightness: 1
   brandColors:
     - '#ffffff'
     - '#384d5e'
     - '#b7b7b7'
     - '#737373'
     - '#1c1c1c'
-  lightness: 0.8125
+  rhythmicContrast: 0
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Vicky Chow
 favicon: null
+name: Vicky Chow
 opengraph:
   image: null
   type: null
