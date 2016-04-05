@@ -1,29 +1,41 @@
-name: Vicky Chow
-favicon: null
-layout_spectrum: 0.26012
-typography_spectrum: 0.90366
 title: 'Vicky Chow, pianist'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.8125
+  brandStrength: 1
+  rhythmicContrast: 0.75
   brandColors:
     - '#ffffff'
     - '#384d5e'
     - '#b7b7b7'
     - '#737373'
     - '#1c1c1c'
-  brandStrength: 1
   lightness: 0.8125
-  saturation: 0.8125
-  rhythmicContrast: 0.75
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Vicky Chow
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.90366
+layout_spectrum: 0
