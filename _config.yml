@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
-  saturation: 1
+  saturation: 0.6326165
   brandStrength: 0.7562724
-  lightness: 1
+  lightness: 0.7956989
   brandColors:
     - '#010003'
     - '#FDFDFC'
     - '#5C425C'
     - '#A3887F'
     - '#77170D'
-  rhythmicContrast: 0
+  rhythmicContrast: 0.6146954
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Vicky Chow
 favicon: null
+name: Vicky Chow
 opengraph:
   image: null
   type: null
